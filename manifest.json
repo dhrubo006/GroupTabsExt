@@ -4,7 +4,7 @@
     "version": "0.0",
     "description": "Simple Chrome extension to group tabs together.",
     "permissions": [
-        "tabs"
+        "tabs", "tabGroups"
     ],
     "action": {
         "default_popup": "popup.html"
